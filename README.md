@@ -1,5 +1,5 @@
 # ttt_python_2
-Second version of unbeatable tic tac toe.
+Second version of Python 3 unbeatable tic tac toe.
 
 After cloning, change to directory and run:
 >python game.py
